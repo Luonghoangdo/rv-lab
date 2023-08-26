@@ -1,0 +1,10 @@
+p {   
+color: red;
+font-size: larger;
+}
+ol {
+    display: flex;
+}
+ ol li{
+    padding: 50px;
+ }
